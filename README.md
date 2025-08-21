@@ -30,4 +30,5 @@ This paper explores how **AI-powered deep learning techniques** can enhance medi
 
 ## 📜 Certificate of Presentation
 
-[👉 View Certificate PDF](certificates/ICIRCA_Certificate.pdf)
+[👉 View Certificate PDF]([👉 View Certificate PDF](https://github.com/sunayana-singhh/icirca-2025-paper/blob/main/ICIRCA_Certificate.pdf)
+)
