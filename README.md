@@ -5,7 +5,7 @@
 
 ---
 
-## Authors  
+## 👩‍💻 Authors  
 
 - **Deepak N A**  
 - **T Mokshita Seshu**  
@@ -16,6 +16,14 @@
 
 ---
 
-## Abstract  
+## 📖 Abstract  
 
 This paper explores how **AI-powered deep learning techniques** can enhance medical imaging analysis, enabling faster diagnoses and improved accuracy. We present a **CNN-based model** trained on medical datasets, highlighting performance improvements in detecting anomalies compared to traditional approaches.  
+
+---
+
+## 📂 Paper  
+
+[👉 Download PDF](paper.pdf)  
+
+---
