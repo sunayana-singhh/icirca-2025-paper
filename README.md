@@ -24,7 +24,7 @@ This paper explores how **AI-powered deep learning techniques** can enhance medi
 
 ## 📂 Paper
 
-[👉 Download Paper PDF](ICIRCA Conference.pdf)
+[👉 Download Paper PDF]([ICIRCA Conference.pdf](https://github.com/sunayana-singhh/icirca-2025-paper/blob/main/ICIRCA%20Conference.pdf))
 
 ---
 
