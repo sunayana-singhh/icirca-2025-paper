@@ -1,18 +1,18 @@
-# Revolutionizing Medical Imaging: AI-Powered Analysis for Faster and More Accurate Diagnoses  
+# Revolutionizing Medical Imaging: AI-Powered Analysis for Faster and More Accurate Diagnoses
 
 📄 Research paper presented at **ICIRCA 2025 – International Conference on Inventive Research in Computing Applications**  
 📍 Coimbatore, India | 🗓️ June 25-27, 2025  
 
 ---
 
-## 👩‍💻 Authors  
+## 👩‍💻 Authors
 
-- **Deepak N A**  
-- **T Mokshita Seshu**  
-- **Sunayana P Singh**  
-- **Vagarth Pandey**  
-- **Tanvi Muttin**  
-- **Tameem Ulla**  
+- Deepak N A  
+- T Mokshita Seshu  
+- Sunayana P Singh  
+- Vagarth Pandey  
+- Tanvi Muttin  
+- Tameem Ulla  
 
 ---
 
@@ -22,8 +22,12 @@ This paper explores how **AI-powered deep learning techniques** can enhance medi
 
 ---
 
-## 📂 Paper  
+## 📂 Paper
 
-[👉 Download PDF](paper.pdf)  
+[👉 Download Paper PDF](ICIRCA Paper.pdf)
 
 ---
+
+## 📜 Certificate of Presentation
+
+[👉 View Certificate PDF](certificates/ICIRCA_Certificate.pdf)
